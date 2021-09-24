@@ -1,5 +1,5 @@
-# vite-eslint-config
-Guide to setting Vite with ESLint
+# vite-ts-eslint-config
+Guide to setting Vite with ESLint and TypeScript
 
 ## Install Depencies
 ```
